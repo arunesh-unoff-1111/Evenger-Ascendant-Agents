@@ -1,0 +1,6 @@
+{
+  "name": "EventPilot AI",
+  "description": "Autonomous AI Event Management Platform with Dynamic Replanning",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
